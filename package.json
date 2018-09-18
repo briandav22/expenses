@@ -35,7 +35,13 @@
     "style-loader": "^0.21.0",
     "uuid": "^3.3.2",
     "validator": "^10.4.0",
-    "webpack": "^4.19.0"
+    "webpack": "^4.19.0",
+    "mini-css-extract-plugin": "^0.4.2",
+    "node-sass": "^4.9.2",
+    "sass-loader": "^7.0.3",
+    "webpack-cli": "^3.0.8",
+    "jest": "^23.6.0",
+    "webpack-dev-server": "^3.1.4"
     
   },
   "devDependencies": {
